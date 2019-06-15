@@ -2299,17 +2299,17 @@ repositories:
   ifopt:
     doc:
       type: git
-      url: https://github.com/ethz-adrl/ifopt.git
+      url: https://github.com/lennonwoo/ifopt.git
       version: master
     release:
       tags:
         release: release/melodic/{package}/{version}
-      url: https://github.com/ethz-adrl/ifopt-release.git
+      url: https://github.com/lennonwoo/ifopt-release.git
       version: 2.0.6-0
     source:
       test_pull_requests: true
       type: git
-      url: https://github.com/ethz-adrl/ifopt.git
+      url: https://github.com/lennonwoo/ifopt.git
       version: master
     status: developed
   igvc_self_drive_sim:
@@ -7658,7 +7658,7 @@ repositories:
   towr:
     doc:
       type: git
-      url: https://github.com/ethz-adrl/towr.git
+      url: https://github.com/lennonwoo/towr.git
       version: master
     release:
       packages:
@@ -7666,12 +7666,12 @@ repositories:
       - towr_ros
       tags:
         release: release/melodic/{package}/{version}
-      url: https://github.com/ethz-adrl/towr-release.git
+      url: https://github.com/lennonwoo/towr-release.git
       version: 1.4.1-0
     source:
       test_pull_requests: true
       type: git
-      url: https://github.com/ethz-adrl/towr.git
+      url: https://github.com/lennonwoo/towr.git
       version: master
     status: developed
   trac_ik:
