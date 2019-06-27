@@ -20,7 +20,6 @@ distributions:
     distribution_type: ros2
   dashing:
     distribution: [dashing/distribution_gsoc.yaml]
-    distribution_cache: http://repo.ros2.org/rosdistro_cache/dashing-cache.yaml.gz
     distribution_status: active
     distribution_type: ros2
   groovy:
