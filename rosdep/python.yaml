@@ -4871,6 +4871,7 @@ python3-catkin-pkg-modules:
   gentoo: [dev-python/catkin_pkg]
   openembedded: [python3-catkin-pkg@meta-ros]
   ubuntu: [python3-catkin-pkg-modules]
+  windows: [python3-catkin-pkg-modules]
 python3-dev:
   debian: [python3-dev]
   fedora: [python3-devel]
@@ -4975,6 +4976,7 @@ python3-nose:
   openembedded: [python3-nose@openembedded-core]
   rhel: ['python%{python3_pkgversion}-nose']
   ubuntu: [python3-nose]
+  windows: [python3-nose]
 python3-nose-yanc:
   debian: [python3-nose-yanc]
   openembedded: [python3-nose-yanc@meta-ros]
@@ -5097,6 +5099,7 @@ python3-pytest:
   gentoo: [dev-python/pytest]
   rhel: ['python%{python3_pkgversion}-pytest']
   ubuntu: [python3-pytest]
+  windows: [python3-pytest]
 python3-qt5-bindings:
   arch: [python-pyqt5]
   debian: [pyqt5-dev, python3-pyqt5, python3-pyqt5.qtsvg, python3-sip-dev, qtbase5-dev]
