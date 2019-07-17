@@ -430,7 +430,6 @@ cmake:
     slackpkg:
       packages: [cmake]
   ubuntu: [cmake]
-  windows: [cmake]
 coinor-libcbc-dev:
   debian: [coinor-libcbc-dev]
   gentoo: [sci-libs/coinor-cbc]
@@ -1065,7 +1064,6 @@ google-mock:
   opensuse: [gmock-devel]
   rhel: [gmock-devel]
   ubuntu: [google-mock]
-  windows: [gtest]
 gperf:
   debian: [gperf]
   fedora: [gperf]
@@ -1221,7 +1219,6 @@ gtest:
   rhel: [gtest-devel]
   slackware: [gtest]
   ubuntu: [libgtest-dev]
-  windows: [gtest]
 gtk-doc-tools:
   arch: [gtk-doc]
   debian: [gtk-doc-tools]
