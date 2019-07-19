@@ -219,7 +219,7 @@ repositories:
   geometry2:
     doc: {type: git, url: 'https://github.com/ros2/geometry2.git', version: dashing}
     release:
-      packages: [tf2, tf2_eigen, tf2_geometry_msgs, tf2_msgs, tf2_ros, tf2_sensor_msgs]
+      packages: [tf2, tf2_eigen, tf2_geometry_msgs, tf2_msgs, tf2_ros, tf2_sensor_msgs, tf2_kdl]
       tags: {release: 'release/dashing/{package}/{version}'}
       url: https://github.com/gsoc-bloom-windows/geometry2-release.git
       version: 0.11.3-1
